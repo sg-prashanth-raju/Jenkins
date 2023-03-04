@@ -1,3 +1,3 @@
 
 print("Hello world")
-prit("Prashanth")
+prit("Prashanth Raju")
